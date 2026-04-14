@@ -1,4 +1,4 @@
-﻿# phishguard-proxy
+
 # PhishGuard Proxy
 
 PhishGuard Proxy is a CLI-based phishing detection and website blocking system that works across all browsers by acting as a local proxy server.
